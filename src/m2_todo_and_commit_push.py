@@ -70,7 +70,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 4.
+# TO: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
@@ -84,7 +84,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 5.
+# TO: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_todo_and_commit_push.py) is now displayed in BLUE.
 #
@@ -121,3 +121,5 @@ print('Hello, World')
 #
 ###############################################################################
 print('gogo')
+print(3607*34227)
+
