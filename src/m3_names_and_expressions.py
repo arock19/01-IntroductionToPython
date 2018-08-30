@@ -94,7 +94,7 @@ print(2**0.5)
 #       'math'
 #
 # After you have written and run the code to learn the TYPE
-# of each of the above, change the above _TODO_ to DONE.
+# of each of the above, change the above _TODO_ to DONE
 ###############################################################################
 print(type("hello"))
 print(type('hello'))
