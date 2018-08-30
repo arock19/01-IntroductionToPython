@@ -57,7 +57,7 @@ print(2**0.5)
 
 
 ###############################################################################
-# TODO: 5.
+# TO: 5.
 #   Every object has a TYPE and a VALUE.  For example,
 #   for the object that is computed by  math.sqrt(2):
 #      Its TYPE is float  (which is shorthand for "floating point number")
