@@ -107,5 +107,7 @@ print(type(2.0**100))
 print(type(m1.sin(8)))
 print(type(m1.sin))
 import rosegraphics as rg
-
 print(type(rg.check_types))
+print(type(print))
+print(type(m1))
+print(type('m1'))
