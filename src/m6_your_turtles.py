@@ -25,7 +25,7 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Amanda Stouder,
 #   If you make syntax (notational) errors, no worries -- get help
 #   fixing them at either this session OR at the NEXT session.
 #
-#   Don't forget to COMMIT-and-PUSH when you are done with this module.
+#   Don't forget to COMMIT-and-PUSH when you are done with this module
 ##############################################################################
 import rosegraphics as rg
 window = rg.TurtleWindow()
